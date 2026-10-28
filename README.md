@@ -82,5 +82,4 @@ The SQL file includes queries to:
 Library-Management-System/
 │
 ├── Library_Management_System.sql
-├── er-diagram.png
 └── README.md
